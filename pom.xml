@@ -65,7 +65,7 @@
     <version.jcip-annotations>1.0</version.jcip-annotations>
     <version.jsoup>1.11.3</version.jsoup>
     <version.junit>4.12</version.junit>
-    <version.log4j>2.11.2</version.log4j>
+    <version.log4j>2.17.1</version.log4j>
     <version.maven-assembly>2.6</version.maven-assembly>
     <version.maven-build-helper>1.12</version.maven-build-helper>
     <version.maven-compiler>3.3</version.maven-compiler>
