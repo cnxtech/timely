@@ -63,7 +63,7 @@
     <version.javacsv>2.0</version.javacsv>
     <version.javassist>3.24.1-GA</version.javassist>
     <version.jcip-annotations>1.0</version.jcip-annotations>
-    <version.jsoup>1.11.3</version.jsoup>
+    <version.jsoup>1.15.3</version.jsoup>
     <version.junit>4.12</version.junit>
     <version.log4j>2.11.2</version.log4j>
     <version.maven-assembly>2.6</version.maven-assembly>
